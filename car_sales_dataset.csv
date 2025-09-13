@@ -1,0 +1,201 @@
+Sale_ID,Make,Model,Body_Style,Engine_Type,Color,Customer_Name,City,State,Dealer_Name,Sale_Date,Sale_Price
+1,Ford,Endeavour,Sedan,Petrol,Silver,Customer_61,Delhi,Delhi,Highway Autos,2022-12-15,6031
+2,Ford,EcoSport,Sedan,Petrol,White,Customer_81,Hyderabad,Telangana,City Cars,2022-05-29,29250
+3,Hyundai,Creta,Sedan,Petrol,Blue,Customer_68,Mumbai,Maharashtra,City Cars,2023-06-14,6217
+4,Toyota,Camry,Sedan,Hybrid,Black,Customer_62,Bangalore,Karnataka,City Cars,2023-06-15,33098
+5,Ford,Figo,Hatchback,Hybrid,Black,Customer_17,Mumbai,Maharashtra,Classic Motors,2022-08-06,15227
+6,Maruti,Dzire,Hatchback,Petrol,White,Customer_99,Delhi,Delhi,Metro Wheels,2022-11-22,5564
+7,Honda,Civic,Hatchback,Hybrid,Blue,Customer_77,Chennai,Tamil Nadu,City Cars,2022-06-22,31831
+8,Toyota,Corolla,Sedan,Diesel,White,Customer_65,Hyderabad,Telangana,AutoHub,2023-06-13,21921
+9,Toyota,Fortuner,SUV,Diesel,Black,Customer_9,Hyderabad,Telangana,Metro Wheels,2023-01-21,21962
+10,Ford,Endeavour,SUV,Hybrid,Silver,Customer_98,Chennai,Tamil Nadu,City Cars,2023-03-06,8189
+11,Maruti,Dzire,SUV,Diesel,Black,Customer_35,Bangalore,Karnataka,Classic Motors,2023-01-19,9839
+12,Honda,CR-V,Hatchback,Petrol,Red,Customer_32,Mumbai,Maharashtra,Classic Motors,2022-06-27,5771
+13,Hyundai,Verna,Sedan,Petrol,White,Customer_94,Mumbai,Maharashtra,Metro Wheels,2022-07-15,18063
+14,Honda,Civic,Sedan,Diesel,Red,Customer_23,Delhi,Delhi,City Cars,2022-07-08,19078
+15,Ford,Endeavour,SUV,Petrol,Silver,Customer_6,Mumbai,Maharashtra,Highway Autos,2022-03-31,30746
+16,Hyundai,i20,Hatchback,Diesel,Red,Customer_36,Delhi,Delhi,Highway Autos,2022-06-06,16317
+17,Maruti,Dzire,Sedan,Petrol,White,Customer_44,Delhi,Delhi,Classic Motors,2023-04-20,33117
+18,Toyota,Fortuner,Sedan,Petrol,Black,Customer_73,Mumbai,Maharashtra,AutoHub,2022-11-04,32167
+19,Maruti,Dzire,SUV,Diesel,Blue,Customer_26,Mumbai,Maharashtra,Classic Motors,2022-12-15,8970
+20,Toyota,Fortuner,SUV,Diesel,Black,Customer_15,Bangalore,Karnataka,AutoHub,2022-08-18,17212
+21,Ford,Figo,Sedan,Diesel,Silver,Customer_21,Chennai,Tamil Nadu,AutoHub,2022-09-26,33266
+22,Ford,Figo,Sedan,Petrol,Red,Customer_16,Chennai,Tamil Nadu,Classic Motors,2022-03-30,8041
+23,Honda,City,SUV,Hybrid,Silver,Customer_86,Delhi,Delhi,Highway Autos,2022-05-30,8916
+24,Toyota,Corolla,Sedan,Petrol,Blue,Customer_58,Delhi,Delhi,Classic Motors,2022-09-07,7056
+25,Maruti,Baleno,Sedan,Hybrid,Silver,Customer_45,Bangalore,Karnataka,Classic Motors,2022-05-13,7294
+26,Maruti,Dzire,Sedan,Hybrid,Silver,Customer_34,Hyderabad,Telangana,Metro Wheels,2022-03-03,24707
+27,Honda,CR-V,Sedan,Hybrid,Black,Customer_55,Delhi,Delhi,City Cars,2022-10-01,13266
+28,Toyota,Camry,Hatchback,Hybrid,White,Customer_7,Mumbai,Maharashtra,AutoHub,2022-11-23,12948
+29,Hyundai,i20,Hatchback,Hybrid,Blue,Customer_27,Bangalore,Karnataka,City Cars,2023-03-24,34240
+30,Maruti,Baleno,Sedan,Petrol,Blue,Customer_38,Chennai,Tamil Nadu,Classic Motors,2022-03-21,28774
+31,Toyota,Camry,SUV,Petrol,Blue,Customer_5,Bangalore,Karnataka,Classic Motors,2023-07-06,30543
+32,Toyota,Camry,SUV,Hybrid,Blue,Customer_4,Delhi,Delhi,Classic Motors,2022-11-04,33617
+33,Ford,Figo,SUV,Petrol,Red,Customer_67,Hyderabad,Telangana,Metro Wheels,2023-02-22,13268
+34,Hyundai,Verna,Sedan,Petrol,White,Customer_22,Bangalore,Karnataka,Metro Wheels,2022-09-17,7350
+35,Hyundai,Creta,Sedan,Hybrid,White,Customer_52,Mumbai,Maharashtra,Metro Wheels,2022-04-26,19556
+36,Hyundai,i20,Sedan,Petrol,Red,Customer_70,Mumbai,Maharashtra,Classic Motors,2022-04-17,8733
+37,Honda,City,SUV,Diesel,Blue,Customer_48,Bangalore,Karnataka,Highway Autos,2022-09-01,24022
+38,Maruti,Swift,SUV,Petrol,Black,Customer_62,Mumbai,Maharashtra,City Cars,2022-08-02,15241
+39,Toyota,Fortuner,SUV,Petrol,Silver,Customer_29,Bangalore,Karnataka,AutoHub,2022-04-27,24192
+40,Honda,Civic,Hatchback,Diesel,Silver,Customer_38,Bangalore,Karnataka,Highway Autos,2022-06-27,17925
+41,Ford,EcoSport,Hatchback,Hybrid,White,Customer_82,Chennai,Tamil Nadu,AutoHub,2023-04-19,13220
+42,Ford,Endeavour,SUV,Diesel,Red,Customer_14,Chennai,Tamil Nadu,AutoHub,2023-07-11,32714
+43,Toyota,Corolla,Hatchback,Hybrid,Blue,Customer_25,Delhi,Delhi,AutoHub,2023-02-03,8085
+44,Honda,Civic,Hatchback,Hybrid,Blue,Customer_90,Mumbai,Maharashtra,Metro Wheels,2022-05-21,12937
+45,Maruti,Swift,Sedan,Hybrid,White,Customer_68,Chennai,Tamil Nadu,Classic Motors,2022-10-26,23896
+46,Honda,CR-V,Sedan,Hybrid,Silver,Customer_1,Chennai,Tamil Nadu,Classic Motors,2023-03-07,5432
+47,Maruti,Swift,Hatchback,Petrol,Black,Customer_3,Bangalore,Karnataka,City Cars,2022-02-14,21042
+48,Honda,CR-V,Sedan,Hybrid,Red,Customer_34,Mumbai,Maharashtra,Highway Autos,2022-02-15,13003
+49,Toyota,Camry,SUV,Hybrid,White,Customer_55,Mumbai,Maharashtra,Metro Wheels,2022-03-29,12909
+50,Toyota,Fortuner,Hatchback,Hybrid,White,Customer_39,Mumbai,Maharashtra,AutoHub,2023-02-15,22075
+51,Hyundai,i20,Sedan,Diesel,Black,Customer_31,Hyderabad,Telangana,Metro Wheels,2023-07-07,31655
+52,Maruti,Dzire,Sedan,Diesel,White,Customer_34,Mumbai,Maharashtra,AutoHub,2023-06-13,9118
+53,Toyota,Fortuner,Hatchback,Hybrid,Red,Customer_64,Hyderabad,Telangana,Metro Wheels,2023-08-17,15529
+54,Hyundai,Creta,Sedan,Petrol,Black,Customer_25,Bangalore,Karnataka,Classic Motors,2022-02-18,22913
+55,Hyundai,i20,Sedan,Diesel,Silver,Customer_4,Hyderabad,Telangana,City Cars,2023-03-26,23677
+56,Hyundai,Verna,Hatchback,Petrol,Blue,Customer_13,Delhi,Delhi,Classic Motors,2022-05-08,24324
+57,Toyota,Camry,SUV,Petrol,Silver,Customer_89,Chennai,Tamil Nadu,Classic Motors,2022-11-04,7190
+58,Toyota,Corolla,Sedan,Petrol,Silver,Customer_30,Hyderabad,Telangana,Metro Wheels,2022-08-29,26717
+59,Honda,CR-V,Hatchback,Hybrid,Silver,Customer_53,Mumbai,Maharashtra,Metro Wheels,2023-06-23,27628
+60,Honda,City,Hatchback,Petrol,Blue,Customer_8,Delhi,Delhi,City Cars,2022-06-26,11973
+61,Ford,Endeavour,SUV,Diesel,Blue,Customer_16,Chennai,Tamil Nadu,Metro Wheels,2023-03-04,24567
+62,Ford,Figo,SUV,Petrol,Red,Customer_46,Hyderabad,Telangana,Classic Motors,2023-05-11,24500
+63,Hyundai,i20,SUV,Hybrid,White,Customer_4,Bangalore,Karnataka,Metro Wheels,2023-01-15,18811
+64,Toyota,Fortuner,SUV,Hybrid,Silver,Customer_41,Mumbai,Maharashtra,Classic Motors,2022-01-24,17068
+65,Ford,Endeavour,Sedan,Petrol,Red,Customer_7,Bangalore,Karnataka,Classic Motors,2022-02-09,11134
+66,Toyota,Corolla,Hatchback,Hybrid,White,Customer_18,Hyderabad,Telangana,Classic Motors,2022-08-02,28626
+67,Ford,Figo,Sedan,Diesel,Red,Customer_65,Chennai,Tamil Nadu,Metro Wheels,2022-10-02,20153
+68,Hyundai,i20,SUV,Hybrid,White,Customer_91,Chennai,Tamil Nadu,AutoHub,2023-06-03,17774
+69,Ford,Figo,Hatchback,Hybrid,White,Customer_12,Chennai,Tamil Nadu,City Cars,2022-06-18,18922
+70,Ford,EcoSport,SUV,Diesel,Blue,Customer_98,Bangalore,Karnataka,Metro Wheels,2022-06-22,12007
+71,Honda,CR-V,Hatchback,Hybrid,Blue,Customer_60,Bangalore,Karnataka,AutoHub,2022-02-15,16808
+72,Ford,Endeavour,Sedan,Petrol,Silver,Customer_37,Bangalore,Karnataka,AutoHub,2023-08-14,26187
+73,Honda,Civic,Sedan,Petrol,Silver,Customer_66,Delhi,Delhi,City Cars,2022-03-16,13143
+74,Toyota,Camry,Sedan,Hybrid,Red,Customer_20,Chennai,Tamil Nadu,Metro Wheels,2022-07-24,33705
+75,Honda,Civic,SUV,Diesel,Blue,Customer_51,Hyderabad,Telangana,Highway Autos,2022-11-13,27525
+76,Maruti,Swift,Hatchback,Hybrid,White,Customer_80,Bangalore,Karnataka,AutoHub,2022-08-07,17250
+77,Honda,City,SUV,Diesel,Black,Customer_92,Hyderabad,Telangana,Classic Motors,2023-01-22,8176
+78,Toyota,Corolla,Hatchback,Diesel,Red,Customer_68,Mumbai,Maharashtra,AutoHub,2022-08-02,19889
+79,Toyota,Fortuner,SUV,Hybrid,Red,Customer_11,Chennai,Tamil Nadu,AutoHub,2022-06-11,28913
+80,Hyundai,i20,Hatchback,Diesel,Black,Customer_80,Mumbai,Maharashtra,Highway Autos,2023-07-14,17100
+81,Honda,Civic,Sedan,Diesel,Blue,Customer_44,Chennai,Tamil Nadu,Metro Wheels,2022-01-18,26812
+82,Hyundai,i20,SUV,Hybrid,Red,Customer_94,Bangalore,Karnataka,Metro Wheels,2023-01-17,21084
+83,Hyundai,Creta,SUV,Petrol,Blue,Customer_12,Chennai,Tamil Nadu,City Cars,2022-06-18,32113
+84,Ford,Figo,Hatchback,Petrol,Silver,Customer_34,Delhi,Delhi,Classic Motors,2023-07-03,9517
+85,Hyundai,Creta,SUV,Hybrid,Silver,Customer_32,Chennai,Tamil Nadu,Classic Motors,2023-07-19,24682
+86,Maruti,Swift,Sedan,Petrol,Black,Customer_71,Bangalore,Karnataka,City Cars,2023-03-02,23456
+87,Hyundai,i20,SUV,Hybrid,Blue,Customer_9,Mumbai,Maharashtra,Metro Wheels,2022-02-08,6641
+88,Maruti,Swift,Sedan,Petrol,Black,Customer_43,Hyderabad,Telangana,Highway Autos,2022-03-16,11833
+89,Honda,City,SUV,Hybrid,Black,Customer_90,Delhi,Delhi,Highway Autos,2023-05-25,30815
+90,Honda,City,Hatchback,Diesel,Silver,Customer_71,Mumbai,Maharashtra,Classic Motors,2022-01-07,30458
+91,Toyota,Camry,SUV,Petrol,Black,Customer_77,Mumbai,Maharashtra,City Cars,2022-12-03,32416
+92,Maruti,Dzire,Sedan,Hybrid,Blue,Customer_63,Mumbai,Maharashtra,City Cars,2022-04-25,12349
+93,Honda,CR-V,Sedan,Hybrid,Silver,Customer_72,Mumbai,Maharashtra,City Cars,2022-08-10,16146
+94,Maruti,Dzire,Sedan,Petrol,Black,Customer_55,Chennai,Tamil Nadu,City Cars,2022-09-08,24296
+95,Honda,Civic,SUV,Hybrid,Silver,Customer_27,Delhi,Delhi,City Cars,2022-04-08,10225
+96,Hyundai,Creta,Sedan,Hybrid,Black,Customer_34,Chennai,Tamil Nadu,Highway Autos,2022-12-12,7194
+97,Toyota,Fortuner,SUV,Diesel,Black,Customer_86,Mumbai,Maharashtra,City Cars,2022-10-23,11562
+98,Maruti,Dzire,Hatchback,Petrol,Silver,Customer_91,Chennai,Tamil Nadu,Metro Wheels,2023-03-02,34775
+99,Toyota,Fortuner,Sedan,Petrol,White,Customer_22,Mumbai,Maharashtra,Classic Motors,2022-04-20,15825
+100,Honda,Civic,Sedan,Hybrid,Silver,Customer_84,Chennai,Tamil Nadu,Metro Wheels,2022-02-12,19485
+101,Ford,EcoSport,Sedan,Diesel,Red,Customer_41,Delhi,Delhi,Metro Wheels,2022-09-27,9757
+102,Hyundai,Verna,Hatchback,Diesel,Black,Customer_16,Delhi,Delhi,AutoHub,2022-07-21,6998
+103,Hyundai,Creta,SUV,Diesel,Black,Customer_63,Mumbai,Maharashtra,Metro Wheels,2023-06-21,13693
+104,Ford,Figo,Hatchback,Petrol,Blue,Customer_67,Bangalore,Karnataka,City Cars,2023-01-11,13898
+105,Maruti,Swift,Hatchback,Hybrid,Black,Customer_46,Hyderabad,Telangana,Highway Autos,2022-08-17,19717
+106,Ford,Endeavour,Sedan,Petrol,Blue,Customer_12,Delhi,Delhi,Classic Motors,2023-07-13,25661
+107,Honda,City,SUV,Hybrid,Red,Customer_22,Chennai,Tamil Nadu,Highway Autos,2022-10-10,9882
+108,Honda,City,Sedan,Petrol,Blue,Customer_83,Delhi,Delhi,AutoHub,2022-02-18,27369
+109,Toyota,Corolla,Hatchback,Petrol,White,Customer_43,Hyderabad,Telangana,Classic Motors,2022-10-24,22026
+110,Ford,Endeavour,SUV,Hybrid,Red,Customer_68,Mumbai,Maharashtra,Metro Wheels,2022-03-20,33915
+111,Toyota,Corolla,SUV,Petrol,Silver,Customer_76,Hyderabad,Telangana,Classic Motors,2023-05-21,19252
+112,Honda,Civic,Hatchback,Diesel,Black,Customer_73,Bangalore,Karnataka,AutoHub,2023-04-08,11323
+113,Honda,CR-V,Sedan,Diesel,Black,Customer_32,Hyderabad,Telangana,AutoHub,2023-06-04,13175
+114,Hyundai,Verna,SUV,Diesel,Black,Customer_89,Bangalore,Karnataka,Highway Autos,2022-11-16,34644
+115,Hyundai,Creta,Sedan,Hybrid,White,Customer_35,Delhi,Delhi,City Cars,2022-07-19,5340
+116,Toyota,Camry,Hatchback,Petrol,White,Customer_57,Chennai,Tamil Nadu,Metro Wheels,2022-03-10,17176
+117,Honda,CR-V,Sedan,Petrol,Black,Customer_91,Delhi,Delhi,City Cars,2022-06-14,32309
+118,Maruti,Dzire,Hatchback,Petrol,Black,Customer_7,Hyderabad,Telangana,Classic Motors,2023-04-01,34911
+119,Hyundai,i20,Hatchback,Diesel,Silver,Customer_54,Bangalore,Karnataka,Highway Autos,2023-02-15,7377
+120,Ford,EcoSport,Sedan,Petrol,White,Customer_58,Bangalore,Karnataka,AutoHub,2023-01-26,10412
+121,Honda,Civic,SUV,Diesel,White,Customer_41,Delhi,Delhi,Highway Autos,2023-07-11,11841
+122,Honda,Civic,SUV,Hybrid,Blue,Customer_5,Mumbai,Maharashtra,Highway Autos,2023-03-27,14678
+123,Toyota,Corolla,Hatchback,Petrol,Silver,Customer_20,Delhi,Delhi,City Cars,2022-06-05,9371
+124,Ford,EcoSport,Hatchback,Diesel,Red,Customer_50,Mumbai,Maharashtra,Metro Wheels,2023-05-12,10125
+125,Honda,Civic,SUV,Petrol,Black,Customer_99,Delhi,Delhi,Classic Motors,2022-10-04,19475
+126,Toyota,Camry,Sedan,Diesel,Red,Customer_29,Hyderabad,Telangana,Classic Motors,2022-11-23,28649
+127,Maruti,Dzire,Hatchback,Diesel,White,Customer_35,Bangalore,Karnataka,AutoHub,2023-06-27,22741
+128,Ford,Endeavour,Hatchback,Hybrid,White,Customer_5,Delhi,Delhi,Highway Autos,2022-04-23,32193
+129,Hyundai,i20,Hatchback,Diesel,Blue,Customer_78,Chennai,Tamil Nadu,Classic Motors,2022-01-25,17263
+130,Toyota,Camry,Hatchback,Petrol,Red,Customer_43,Delhi,Delhi,Metro Wheels,2023-04-13,10659
+131,Toyota,Camry,SUV,Hybrid,Silver,Customer_96,Mumbai,Maharashtra,Classic Motors,2022-02-28,22715
+132,Toyota,Fortuner,Hatchback,Hybrid,Blue,Customer_63,Delhi,Delhi,Highway Autos,2022-05-15,7307
+133,Honda,Civic,Sedan,Petrol,Red,Customer_64,Hyderabad,Telangana,Metro Wheels,2023-08-06,31048
+134,Toyota,Fortuner,Hatchback,Petrol,Blue,Customer_62,Bangalore,Karnataka,Metro Wheels,2022-10-12,6999
+135,Toyota,Fortuner,SUV,Hybrid,Red,Customer_78,Mumbai,Maharashtra,Highway Autos,2023-07-18,26453
+136,Maruti,Swift,Hatchback,Petrol,Silver,Customer_54,Delhi,Delhi,AutoHub,2022-06-23,6306
+137,Toyota,Corolla,Hatchback,Diesel,Red,Customer_29,Bangalore,Karnataka,AutoHub,2023-05-09,22789
+138,Honda,Civic,Sedan,Diesel,Black,Customer_57,Bangalore,Karnataka,Highway Autos,2022-10-14,13174
+139,Ford,EcoSport,Sedan,Diesel,Black,Customer_28,Mumbai,Maharashtra,Highway Autos,2022-05-18,33920
+140,Hyundai,Creta,SUV,Hybrid,Blue,Customer_23,Delhi,Delhi,Metro Wheels,2022-03-17,17417
+141,Hyundai,Creta,Sedan,Hybrid,Blue,Customer_66,Hyderabad,Telangana,City Cars,2022-09-24,15334
+142,Ford,Figo,Hatchback,Petrol,Blue,Customer_25,Mumbai,Maharashtra,AutoHub,2022-07-21,12725
+143,Maruti,Dzire,Hatchback,Petrol,Blue,Customer_25,Delhi,Delhi,Highway Autos,2022-05-10,5355
+144,Toyota,Camry,Hatchback,Petrol,Blue,Customer_61,Bangalore,Karnataka,Classic Motors,2022-04-09,8206
+145,Maruti,Baleno,Sedan,Diesel,Silver,Customer_89,Chennai,Tamil Nadu,Highway Autos,2022-04-25,31754
+146,Maruti,Dzire,Sedan,Hybrid,Blue,Customer_41,Hyderabad,Telangana,Highway Autos,2023-05-06,15922
+147,Maruti,Swift,SUV,Diesel,Blue,Customer_2,Bangalore,Karnataka,Metro Wheels,2022-01-20,22938
+148,Honda,City,Hatchback,Diesel,Black,Customer_94,Mumbai,Maharashtra,AutoHub,2022-11-22,8017
+149,Maruti,Dzire,Hatchback,Petrol,Blue,Customer_78,Bangalore,Karnataka,Highway Autos,2023-06-17,26345
+150,Honda,Civic,Hatchback,Petrol,Black,Customer_26,Hyderabad,Telangana,AutoHub,2023-01-22,34363
+151,Maruti,Baleno,SUV,Hybrid,White,Customer_18,Bangalore,Karnataka,City Cars,2023-03-10,9069
+152,Ford,Figo,Sedan,Hybrid,Silver,Customer_11,Mumbai,Maharashtra,Highway Autos,2022-05-09,9104
+153,Toyota,Fortuner,SUV,Petrol,White,Customer_2,Mumbai,Maharashtra,Classic Motors,2022-08-18,13002
+154,Maruti,Dzire,Sedan,Petrol,Blue,Customer_11,Mumbai,Maharashtra,AutoHub,2023-06-26,16234
+155,Toyota,Fortuner,SUV,Hybrid,Blue,Customer_39,Chennai,Tamil Nadu,Highway Autos,2023-05-07,19584
+156,Ford,Figo,Sedan,Diesel,Silver,Customer_74,Mumbai,Maharashtra,Classic Motors,2023-03-15,10162
+157,Toyota,Camry,Sedan,Petrol,Blue,Customer_37,Mumbai,Maharashtra,Metro Wheels,2023-05-03,30029
+158,Hyundai,Verna,SUV,Hybrid,Blue,Customer_32,Hyderabad,Telangana,Highway Autos,2023-06-12,9026
+159,Ford,EcoSport,Sedan,Diesel,Black,Customer_54,Bangalore,Karnataka,Metro Wheels,2022-02-25,8110
+160,Toyota,Fortuner,SUV,Petrol,Red,Customer_72,Hyderabad,Telangana,City Cars,2022-04-17,20749
+161,Toyota,Camry,Sedan,Diesel,Silver,Customer_40,Mumbai,Maharashtra,Classic Motors,2023-03-07,27990
+162,Honda,CR-V,Hatchback,Hybrid,White,Customer_39,Chennai,Tamil Nadu,AutoHub,2023-03-11,31420
+163,Honda,Civic,Hatchback,Diesel,White,Customer_77,Mumbai,Maharashtra,Highway Autos,2022-05-05,21518
+164,Ford,EcoSport,Sedan,Diesel,Black,Customer_3,Delhi,Delhi,AutoHub,2022-01-30,29641
+165,Toyota,Corolla,Hatchback,Petrol,Red,Customer_20,Delhi,Delhi,City Cars,2023-05-22,29852
+166,Maruti,Baleno,SUV,Petrol,Black,Customer_16,Chennai,Tamil Nadu,Highway Autos,2022-01-29,13161
+167,Toyota,Camry,Sedan,Diesel,Blue,Customer_87,Delhi,Delhi,Highway Autos,2022-01-12,10870
+168,Toyota,Camry,Hatchback,Petrol,White,Customer_32,Hyderabad,Telangana,Metro Wheels,2022-01-19,13211
+169,Honda,CR-V,Hatchback,Hybrid,White,Customer_16,Delhi,Delhi,AutoHub,2022-09-25,10209
+170,Hyundai,Verna,Hatchback,Hybrid,White,Customer_19,Mumbai,Maharashtra,Highway Autos,2022-09-09,33306
+171,Maruti,Baleno,Hatchback,Hybrid,Silver,Customer_88,Mumbai,Maharashtra,Classic Motors,2022-05-27,33311
+172,Toyota,Camry,Hatchback,Diesel,Blue,Customer_22,Mumbai,Maharashtra,City Cars,2022-08-06,32718
+173,Ford,Endeavour,SUV,Diesel,White,Customer_92,Bangalore,Karnataka,Highway Autos,2023-04-22,6060
+174,Honda,CR-V,SUV,Petrol,Black,Customer_92,Mumbai,Maharashtra,AutoHub,2022-11-24,20721
+175,Honda,City,Sedan,Diesel,Black,Customer_24,Chennai,Tamil Nadu,Highway Autos,2022-09-14,29187
+176,Toyota,Fortuner,Sedan,Hybrid,Silver,Customer_78,Chennai,Tamil Nadu,Metro Wheels,2022-10-26,14943
+177,Ford,EcoSport,Hatchback,Petrol,Red,Customer_74,Chennai,Tamil Nadu,Classic Motors,2023-04-22,21201
+178,Hyundai,Creta,SUV,Hybrid,Silver,Customer_9,Bangalore,Karnataka,AutoHub,2022-07-11,30842
+179,Ford,Endeavour,Sedan,Petrol,Blue,Customer_36,Hyderabad,Telangana,Classic Motors,2022-01-10,26314
+180,Ford,EcoSport,SUV,Hybrid,Silver,Customer_83,Bangalore,Karnataka,Metro Wheels,2022-07-15,20227
+181,Honda,City,SUV,Hybrid,Red,Customer_86,Chennai,Tamil Nadu,Highway Autos,2022-11-12,13795
+182,Honda,City,SUV,Hybrid,Silver,Customer_71,Mumbai,Maharashtra,Highway Autos,2023-07-17,28002
+183,Honda,City,Sedan,Hybrid,Black,Customer_28,Delhi,Delhi,AutoHub,2023-04-21,6432
+184,Hyundai,Creta,SUV,Petrol,Blue,Customer_15,Bangalore,Karnataka,Highway Autos,2022-04-17,7669
+185,Honda,CR-V,SUV,Petrol,White,Customer_86,Delhi,Delhi,City Cars,2023-02-15,16689
+186,Hyundai,Creta,Sedan,Hybrid,Blue,Customer_95,Hyderabad,Telangana,City Cars,2022-01-17,11244
+187,Maruti,Baleno,Sedan,Hybrid,Blue,Customer_85,Delhi,Delhi,City Cars,2023-04-08,12369
+188,Toyota,Camry,Hatchback,Hybrid,Silver,Customer_74,Bangalore,Karnataka,Metro Wheels,2022-06-02,25153
+189,Honda,Civic,SUV,Diesel,Red,Customer_3,Hyderabad,Telangana,Metro Wheels,2023-05-09,9712
+190,Hyundai,i20,SUV,Petrol,Silver,Customer_40,Hyderabad,Telangana,Highway Autos,2022-04-11,8276
+191,Hyundai,Creta,Hatchback,Petrol,Black,Customer_25,Mumbai,Maharashtra,City Cars,2023-03-11,31941
+192,Ford,Endeavour,SUV,Petrol,White,Customer_15,Hyderabad,Telangana,Classic Motors,2023-05-11,7341
+193,Honda,City,Hatchback,Petrol,Black,Customer_53,Bangalore,Karnataka,City Cars,2023-08-16,11480
+194,Ford,EcoSport,SUV,Diesel,Blue,Customer_38,Chennai,Tamil Nadu,AutoHub,2023-02-01,24067
+195,Ford,Endeavour,Hatchback,Hybrid,Blue,Customer_99,Mumbai,Maharashtra,Highway Autos,2023-06-02,9689
+196,Toyota,Fortuner,SUV,Petrol,Red,Customer_99,Bangalore,Karnataka,Highway Autos,2022-04-14,13173
+197,Honda,CR-V,Hatchback,Diesel,White,Customer_78,Hyderabad,Telangana,City Cars,2022-03-21,7891
+198,Hyundai,i20,Sedan,Hybrid,White,Customer_31,Delhi,Delhi,Classic Motors,2023-01-23,20162
+199,Hyundai,Creta,SUV,Hybrid,Silver,Customer_2,Hyderabad,Telangana,City Cars,2023-05-17,7066
+200,Hyundai,Verna,Sedan,Diesel,White,Customer_68,Hyderabad,Telangana,AutoHub,2022-01-16,9284
